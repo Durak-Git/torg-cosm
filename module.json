@@ -26,10 +26,10 @@
     "requires": []
   },
   "esmodules": [
-    "./modif.js"
+    "scripts/modifs.js"
   ],
   "styles": [
-    "./cosm.css"
+    "style/cosm.css"
   ],
   "languages": [
         {
