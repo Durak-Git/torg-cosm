@@ -1,7 +1,7 @@
 
 import { torgeternity } from "../../systems/torgeternity/module/config.js";
 
-Hooks.once("init", async function () {
+Hooks.once("ready", async function () {
   torgeternity.cosmTypes.malagwa = 'personnal.malagwa';
 
   torgeternity.axiomByCosm.malagwa = {
