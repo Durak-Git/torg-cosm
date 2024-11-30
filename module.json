@@ -1,6 +1,6 @@
 {
   "id": "torg-cosm",
-  "title": "Custom Cosms",
+  "title": "torg-cosm",
   "description": "A way to add custom cosm tent in the Torg System",
   "version": "#{VERSION}#",
   "library": "false",
