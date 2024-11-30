@@ -120,11 +120,10 @@ jobs:
             README.md                            \
             LICENSE                              \
             templates                            \
-            scripts/                             \
-            styles/                              \
-            packs/                               \
-            language/                            \
-            lang/
+            icons/                               \
+            cosm.css                             \
+            modif.js                             \
+            languages/                           \
           # Don't forget to add a backslash at the end of the line for any
           # additional files or directories!
 
