@@ -4,7 +4,6 @@
   "description": "A way to add custom cosm tent in the Torg System",
   "version": "#{VERSION}#",
   "library": "false",
-  "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 10,
     "verified": 10,
