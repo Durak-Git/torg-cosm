@@ -1,0 +1,9 @@
+#navigation .cosm-card.malagwa {
+    background: url(icons/malagwa-tent.webp);
+    background-size: 100% 100%;
+}
+
+#navigation a.scene-name .cosm-icone.malagwa {
+    background: url(icons/malagwa-icon.webp);
+    background-size: 100% 100%;
+}
