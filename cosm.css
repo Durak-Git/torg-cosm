@@ -8,3 +8,33 @@
     background: url(icons/malagwa-icon.webp);
     background-size: 100% 100%;
 }
+
+#navigation .fr.cosm-card.malagwa {
+    background: url(icons/fr/malagwa-tent.webp);
+    background-size: 100% 100%;
+}
+
+#navigation a.scene-name .fr.cosm-icone.malagwa {
+    background: url(icons/fr/malagwa-icon.webp);
+    background-size: 100% 100%;
+}
+
+#navigation .de.cosm-card.malagwa {
+    background: url(icons/de/malagwa-tent.webp);
+    background-size: 100% 100%;
+}
+
+#navigation a.scene-name .de.cosm-icone.malagwa {
+    background: url(icons/de/malagwa-icon.webp);
+    background-size: 100% 100%;
+}
+
+#navigation .es.cosm-card.malagwa {
+    background: url(icons/es/malagwa-tent.webp);
+    background-size: 100% 100%;
+}
+
+#navigation a.scene-name .es.cosm-icone.malagwa {
+    background: url(icons/es/malagwa-icon.webp);
+    background-size: 100% 100%;
+}
